@@ -1,0 +1,29 @@
+html {
+    background: black;
+    margin: 0;
+}
+body {
+    width:640px;
+    background: white;
+    margin-left: 400px;
+}
+header {
+    display: flex;
+    align-items: center;
+    height: auto;
+}
+div.header2 {
+    display: block;
+}
+div.header3 {
+    margin-left: auto;
+    
+}
+div.marks {
+    display: flex;
+    align-items: center;
+    height: auto;
+}
+div.marks4 {
+    margin-left: auto;
+}
